@@ -27,7 +27,7 @@ I use this space to document my practical learning, security research, lab exper
 
 - [CTF-writeups](https://github.com/vchaitanyareddy/CTF-writeups) – Practical CTF challenges and technical write-ups.
 - [OWASP-Top-10-2025](https://github.com/vchaitanyareddy/OWASP-Top-10-2025) – Hands-on web application security assessments and vulnerability demonstrations.
-
+- [SOC-Analyst-Writeups](https://github.com/vchaitanyareddy/SOC-Analyst-Writeups.git)
 ## 🎯 Current Focus
 
 Learning, experimenting, documenting, and improving my cybersecurity skills through hands-on practice.
